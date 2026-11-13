@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#eef4e6"/><stop offset="1" stop-color="#d8e6c8"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity=".65"/><stop offset=".45" stop-color="#ffffff" stop-opacity=".12"/><stop offset="1" stop-color="#ffffff" stop-opacity=".3"/></linearGradient>
+<filter id="sh" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="16" stdDeviation="16" flood-color="#2b1c0d" flood-opacity=".2"/></filter>
+</defs>
+<rect width="800" height="800" fill="url(#bg)"/>
+<circle cx="690" cy="120" r="190" fill="#ffffff" opacity=".32"/>
+<circle cx="92" cy="704" r="150" fill="#ffffff" opacity=".2"/>
+<g filter="url(#sh)">
+<ellipse cx="400" cy="658" rx="195" ry="31" fill="#2b1c0d" opacity=".16"/>
+<path d="M252 270 L548 270 L580 650 Q400 690 220 650 Z" fill="#fbf6e9"/>
+<path d="M252 270 L548 270 L548 312 L252 312 Z" fill="#eee3c9"/>
+<rect x="238" y="244" width="324" height="52" rx="12" fill="#d8c9a6"/>
+<rect x="314" y="408" width="172" height="146" rx="12" fill="#0b7a58"/>
+<text x="400" y="466" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="800" letter-spacing="6" fill="#ffffff" text-anchor="middle">BERAS</text>
+<text x="400" y="506" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" letter-spacing="2" fill="#d9f2e7" text-anchor="middle">PANDAN WANGI</text>
+<ellipse cx="300" cy="612" rx="18" ry="10" fill="#fffdf6" stroke="#e3d6b8" stroke-width="3"/><ellipse cx="346" cy="626" rx="18" ry="10" fill="#fffdf6" stroke="#e3d6b8" stroke-width="3"/><ellipse cx="392" cy="612" rx="18" ry="10" fill="#fffdf6" stroke="#e3d6b8" stroke-width="3"/><ellipse cx="438" cy="626" rx="18" ry="10" fill="#fffdf6" stroke="#e3d6b8" stroke-width="3"/><ellipse cx="484" cy="612" rx="18" ry="10" fill="#fffdf6" stroke="#e3d6b8" stroke-width="3"/>
+<path d="M300 596 q100 -22 200 0" fill="none" stroke="#e8dcc2" stroke-width="4"/>
+<text x="400" y="700" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="4" fill="#6b7b52" text-anchor="middle">5 KG</text>
+</g>
+</svg>

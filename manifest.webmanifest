@@ -1,0 +1,71 @@
+{
+  "name": "Pasar Janapria — Marketplace UMKM & Jasa Desa",
+  "short_name": "Pasar Janapria",
+  "description": "Belanja produk UMKM dan pesan jasa warga Desa Janapria, Lombok Tengah. Bisa COD, antar desa, dan tetap jalan saat sinyal lemah.",
+  "id": "/",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F4F5F7",
+  "theme_color": "#0B7A58",
+  "lang": "id",
+  "dir": "ltr",
+  "categories": [
+    "shopping",
+    "business",
+    "lifestyle"
+  ],
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Produk",
+      "url": "./index.html#/produk",
+      "icons": [
+        {
+          "src": "assets/icons/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Jasa",
+      "url": "./index.html#/jasa",
+      "icons": [
+        {
+          "src": "assets/icons/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Titip Jual",
+      "url": "./index.html#/jual",
+      "icons": [
+        {
+          "src": "assets/icons/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

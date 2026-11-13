@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f2f6e4"/><stop offset="1" stop-color="#dde8c4"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity=".65"/><stop offset=".45" stop-color="#ffffff" stop-opacity=".12"/><stop offset="1" stop-color="#ffffff" stop-opacity=".3"/></linearGradient>
+<filter id="sh" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="16" stdDeviation="16" flood-color="#2b1c0d" flood-opacity=".2"/></filter>
+</defs>
+<rect width="800" height="800" fill="url(#bg)"/>
+<circle cx="690" cy="120" r="190" fill="#ffffff" opacity=".32"/>
+<circle cx="92" cy="704" r="150" fill="#ffffff" opacity=".2"/>
+<g filter="url(#sh)">
+<ellipse cx="400" cy="656" rx="210" ry="34" fill="#2b1c0d" opacity=".16"/>
+<path d="M170 488 q230 -86 460 0 q-70 130 -230 150 q-160 -20 -230 -150 Z" fill="#5f8f49"/>
+<path d="M204 486 q196 -68 392 0 q-58 98 -196 116 q-138 -18 -196 -116 Z" fill="#79a65c"/>
+<rect x="286" y="390" width="228" height="150" rx="14" fill="#e8d6a8"/>
+<path d="M286 390 L514 390 L514 420 L286 420 Z" fill="#f0e3bf"/>
+<circle cx="320" cy="440" r="3.2" fill="#b7a06c"/><circle cx="357" cy="463" r="3.2" fill="#b7a06c"/><circle cx="394" cy="486" r="3.2" fill="#b7a06c"/><circle cx="431" cy="509" r="3.2" fill="#b7a06c"/><circle cx="468" cy="456" r="3.2" fill="#b7a06c"/><circle cx="325" cy="479" r="3.2" fill="#b7a06c"/><circle cx="362" cy="502" r="3.2" fill="#b7a06c"/><circle cx="399" cy="449" r="3.2" fill="#b7a06c"/><circle cx="436" cy="472" r="3.2" fill="#b7a06c"/><circle cx="473" cy="495" r="3.2" fill="#b7a06c"/><circle cx="330" cy="442" r="3.2" fill="#b7a06c"/><circle cx="367" cy="465" r="3.2" fill="#b7a06c"/><circle cx="404" cy="488" r="3.2" fill="#b7a06c"/><circle cx="441" cy="511" r="3.2" fill="#b7a06c"/>
+<rect x="324" y="456" width="152" height="10" rx="5" fill="#d6c294"/>
+<g transform="translate(548 500)">
+<rect width="76" height="76" rx="8" fill="#f7efd8" stroke="#e0d0a8" stroke-width="3"/>
+<rect x="14" y="14" width="48" height="48" rx="4" fill="#fdf8e9"/>
+</g>
+<g transform="translate(172 492)">
+<rect width="76" height="76" rx="8" fill="#f8f0da" stroke="#e0d0a8" stroke-width="3"/>
+<rect x="14" y="14" width="48" height="48" rx="4" fill="#fdf8e9"/>
+</g>
+<path d="M230 570 q170 -34 340 0" fill="none" stroke="#3f6b3b" stroke-width="4" opacity=".35"/>
+<text x="400" y="704" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="2" fill="#3f6b3b" text-anchor="middle">TEMPE TAHU SEGAR</text>
+</g>
+</svg>

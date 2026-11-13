@@ -1,0 +1,9 @@
+{
+  "name": "pasar-janapria",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MVP PWA marketplace UMKM & jasa Desa Janapria, Lombok Tengah — offline-first, bilingual ID/Sasak.",
+  "scripts": {
+    "start": "node server.js"
+  }
+}

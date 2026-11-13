@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f4e7d5"/><stop offset="1" stop-color="#e0c8a8"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity=".65"/><stop offset=".45" stop-color="#ffffff" stop-opacity=".12"/><stop offset="1" stop-color="#ffffff" stop-opacity=".3"/></linearGradient>
+<filter id="sh" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="16" stdDeviation="16" flood-color="#2b1c0d" flood-opacity=".2"/></filter>
+</defs>
+<rect width="800" height="800" fill="url(#bg)"/>
+<circle cx="690" cy="120" r="190" fill="#ffffff" opacity=".32"/>
+<circle cx="92" cy="704" r="150" fill="#ffffff" opacity=".2"/>
+<g filter="url(#sh)">
+<ellipse cx="400" cy="656" rx="178" ry="28" fill="#2b1c0d" opacity=".16"/>
+<rect x="316" y="286" width="168" height="344" rx="30" fill="#4d2b16"/>
+<rect x="332" y="304" width="136" height="306" rx="22" fill="#8a4b1f"/>
+<rect x="332" y="304" width="44" height="306" rx="22" fill="#ffffff" opacity=".22"/>
+<rect x="322" y="252" width="156" height="52" rx="12" fill="#2f1a0d"/>
+<rect x="326" y="404" width="148" height="104" rx="9" fill="#f8edd8"/>
+<text x="400" y="446" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="800" letter-spacing="1" fill="#5b3415" text-anchor="middle">GULA AREN</text>
+<text x="400" y="474" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="1" fill="#8a6a45" text-anchor="middle">CAIR · 500 ML</text>
+<g transform="rotate(-24 230 360)">
+<path d="M228 360 q-58 -34 -52 -96 q54 4 70 70" fill="#3f6b3b"/>
+<path d="M228 360 q-6 -62 44 -92 q30 44 -12 96" fill="#4f8048"/>
+<path d="M228 362 q-2 62 -40 92 q-34 -42 8 -96" fill="#5a8f52"/>
+</g>
+<ellipse cx="560" cy="620" rx="46" ry="18" fill="#c98f4e"/>
+<rect x="534" y="592" width="52" height="30" rx="6" fill="#9b642e"/>
+</g>
+</svg>

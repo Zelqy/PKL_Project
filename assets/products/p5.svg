@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fdf3dc"/><stop offset="1" stop-color="#f0dfb2"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity=".65"/><stop offset=".45" stop-color="#ffffff" stop-opacity=".12"/><stop offset="1" stop-color="#ffffff" stop-opacity=".3"/></linearGradient>
+<filter id="sh" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="16" stdDeviation="16" flood-color="#2b1c0d" flood-opacity=".2"/></filter>
+</defs>
+<rect width="800" height="800" fill="url(#bg)"/>
+<circle cx="690" cy="120" r="190" fill="#ffffff" opacity=".32"/>
+<circle cx="92" cy="704" r="150" fill="#ffffff" opacity=".2"/>
+<g filter="url(#sh)">
+<ellipse cx="400" cy="660" rx="180" ry="29" fill="#2b1c0d" opacity=".16"/>
+<path d="M282 262 L518 262 L552 626 Q400 664 248 626 Z" fill="#f2c94c"/>
+<path d="M282 262 L518 262 L504 300 L296 300 Z" fill="#d9a52e"/>
+<path d="M282 262 L400 292 L518 262" fill="#e8b63c"/>
+<rect x="314" y="392" width="172" height="150" rx="75" fill="#fffaf0" stroke="#c99a2b" stroke-width="6"/>
+<path d="M352 500 q-18 -30 2 -56 q22 20 18 56 Z" fill="#f2b53b" stroke="#d9952d" stroke-width="3"/><path d="M370 500 q-18 -30 2 -56 q22 20 18 56 Z" fill="#f2b53b" stroke="#d9952d" stroke-width="3"/><path d="M388 500 q-18 -30 2 -56 q22 20 18 56 Z" fill="#f2b53b" stroke="#d9952d" stroke-width="3"/><path d="M406 500 q-18 -30 2 -56 q22 20 18 56 Z" fill="#f2b53b" stroke="#d9952d" stroke-width="3"/><path d="M424 500 q-18 -30 2 -56 q22 20 18 56 Z" fill="#f2b53b" stroke="#d9952d" stroke-width="3"/>
+<text x="400" y="590" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="800" letter-spacing="4" fill="#8a5a00" text-anchor="middle">KERIPIK</text>
+<text x="400" y="618" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="2" fill="#a06c00" text-anchor="middle">PISANG PEDAS</text>
+<g transform="rotate(-18 590 440)"><path d="M560 420 q40 -30 70 4 q-38 34 -70 -4 Z" fill="#f2c94c"/></g>
+<g transform="rotate(24 238 500)"><path d="M210 478 q40 -30 70 4 q-38 34 -70 -4 Z" fill="#f7d96b"/></g>
+</g>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fbeedd"/><stop offset="1" stop-color="#efd7b8"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity=".65"/><stop offset=".45" stop-color="#ffffff" stop-opacity=".12"/><stop offset="1" stop-color="#ffffff" stop-opacity=".3"/></linearGradient>
+<filter id="sh" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="16" stdDeviation="16" flood-color="#2b1c0d" flood-opacity=".2"/></filter>
+</defs>
+<rect width="800" height="800" fill="url(#bg)"/>
+<circle cx="690" cy="120" r="190" fill="#ffffff" opacity=".32"/>
+<circle cx="92" cy="704" r="150" fill="#ffffff" opacity=".2"/>
+<g filter="url(#sh)">
+<ellipse cx="400" cy="652" rx="170" ry="27" fill="#2b1c0d" opacity=".16"/>
+<rect x="308" y="302" width="184" height="330" rx="28" fill="#c96b2f"/>
+<rect x="324" y="318" width="152" height="298" rx="20" fill="#e08a44"/>
+<rect x="324" y="318" width="48" height="298" rx="20" fill="#ffffff" opacity=".22"/>
+<rect x="316" y="272" width="168" height="50" rx="12" fill="#7a3d18"/>
+<rect x="338" y="404" width="124" height="120" rx="9" fill="#fff6e6"/>
+<text x="400" y="452" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="800" letter-spacing="4" fill="#8a3c12" text-anchor="middle">ABON</text>
+<text x="400" y="482" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="1" fill="#a56727" text-anchor="middle">IKAN TONGKOL</text>
+<line x1="352" y1="516" x2="362" y2="512" stroke="#b5622d" stroke-width="2.4" stroke-linecap="round"/><line x1="365" y1="525" x2="375" y2="521" stroke="#b5622d" stroke-width="2.4" stroke-linecap="round"/><line x1="378" y1="534" x2="388" y2="530" stroke="#b5622d" stroke-width="2.4" stroke-linecap="round"/><line x1="391" y1="543" x2="401" y2="539" stroke="#b5622d" stroke-width="2.4" stroke-linecap="round"/><line x1="404" y1="552" x2="414" y2="548" stroke="#b5622d" stroke-width="2.4" stroke-linecap="round"/><line x1="417" y1="561" x2="427" y2="557" stroke="#b5622d" stroke-width="2.4" stroke-linecap="round"/><line x1="430" y1="518" x2="440" y2="514" stroke="#b5622d" stroke-width="2.4" stroke-linecap="round"/><line x1="443" y1="527" x2="453" y2="523" stroke="#b5622d" stroke-width="2.4" stroke-linecap="round"/><line x1="356" y1="536" x2="366" y2="532" stroke="#b5622d" stroke-width="2.4" stroke-linecap="round"/><line x1="369" y1="545" x2="379" y2="541" stroke="#b5622d" stroke-width="2.4" stroke-linecap="round"/><line x1="382" y1="554" x2="392" y2="550" stroke="#b5622d" stroke-width="2.4" stroke-linecap="round"/><line x1="395" y1="563" x2="405" y2="559" stroke="#b5622d" stroke-width="2.4" stroke-linecap="round"/><line x1="408" y1="520" x2="418" y2="516" stroke="#b5622d" stroke-width="2.4" stroke-linecap="round"/><line x1="421" y1="529" x2="431" y2="525" stroke="#b5622d" stroke-width="2.4" stroke-linecap="round"/><line x1="434" y1="538" x2="444" y2="534" stroke="#b5622d" stroke-width="2.4" stroke-linecap="round"/><line x1="447" y1="547" x2="457" y2="543" stroke="#b5622d" stroke-width="2.4" stroke-linecap="round"/><line x1="360" y1="556" x2="370" y2="552" stroke="#b5622d" stroke-width="2.4" stroke-linecap="round"/><line x1="373" y1="565" x2="383" y2="561" stroke="#b5622d" stroke-width="2.4" stroke-linecap="round"/><line x1="386" y1="522" x2="396" y2="518" stroke="#b5622d" stroke-width="2.4" stroke-linecap="round"/><line x1="399" y1="531" x2="409" y2="527" stroke="#b5622d" stroke-width="2.4" stroke-linecap="round"/><line x1="412" y1="540" x2="422" y2="536" stroke="#b5622d" stroke-width="2.4" stroke-linecap="round"/><line x1="425" y1="549" x2="435" y2="545" stroke="#b5622d" stroke-width="2.4" stroke-linecap="round"/><line x1="438" y1="558" x2="448" y2="554" stroke="#b5622d" stroke-width="2.4" stroke-linecap="round"/><line x1="451" y1="567" x2="461" y2="563" stroke="#b5622d" stroke-width="2.4" stroke-linecap="round"/><line x1="364" y1="524" x2="374" y2="520" stroke="#b5622d" stroke-width="2.4" stroke-linecap="round"/><line x1="377" y1="533" x2="387" y2="529" stroke="#b5622d" stroke-width="2.4" stroke-linecap="round"/>
+<path d="M300 640 q-40 -20 -52 -58 q48 0 72 32" fill="#e8a463"/>
+<text x="400" y="704" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" letter-spacing="3" fill="#8a5a35" text-anchor="middle">SIAP SAJI</text>
+</g>
+</svg>

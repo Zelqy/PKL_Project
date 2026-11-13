@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fdf0d2"/><stop offset="1" stop-color="#f3d99b"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity=".65"/><stop offset=".45" stop-color="#ffffff" stop-opacity=".12"/><stop offset="1" stop-color="#ffffff" stop-opacity=".3"/></linearGradient>
+<filter id="sh" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="16" stdDeviation="16" flood-color="#2b1c0d" flood-opacity=".2"/></filter>
+</defs>
+<rect width="800" height="800" fill="url(#bg)"/>
+<circle cx="690" cy="120" r="190" fill="#ffffff" opacity=".32"/>
+<circle cx="92" cy="704" r="150" fill="#ffffff" opacity=".2"/>
+<g filter="url(#sh)">
+<ellipse cx="400" cy="650" rx="175" ry="28" fill="#2b1c0d" opacity=".16"/>
+<rect x="300" y="300" width="200" height="330" rx="34" fill="#e29a22"/>
+<rect x="316" y="318" width="168" height="294" rx="26" fill="#f7b93e"/>
+<rect x="316" y="318" width="60" height="294" rx="26" fill="#ffffff" opacity=".35"/>
+<rect x="306" y="262" width="188" height="58" rx="14" fill="#6b4a2f"/>
+<rect x="306" y="262" width="188" height="20" rx="10" fill="#8a6240"/>
+<rect x="330" y="420" width="140" height="104" rx="10" fill="#fffaf0"/>
+<text x="400" y="464" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="800" letter-spacing="5" fill="#a56700" text-anchor="middle">MADU</text>
+<text x="400" y="496" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="1" fill="#8a6a35" text-anchor="middle">HUTAN SELEBUNG</text>
+<g transform="rotate(18 590 420)">
+<rect x="578" y="318" width="18" height="220" rx="9" fill="#c98a3d"/>
+<ellipse cx="587" cy="538" rx="26" ry="16" fill="#d99a45"/>
+<ellipse cx="587" cy="504" rx="24" ry="14" fill="#e0a64f"/>
+<ellipse cx="587" cy="474" rx="22" ry="13" fill="#e7b25a"/>
+<ellipse cx="587" cy="448" rx="20" ry="12" fill="#edbd66"/>
+</g>
+<path d="M250 342 l30 -36 l30 36 l-30 36 Z" fill="#ffffff" opacity=".4"/>
+<path d="M540 588 l24 -28 l24 28 l-24 28 Z" fill="#ffffff" opacity=".4"/>
+</g>
+</svg>
